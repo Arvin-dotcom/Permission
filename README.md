@@ -1,2 +1,0 @@
-# Permission
-Permission andriod studio
